@@ -1,3 +1,9 @@
 # numanc498
-My Developer Profile
 
+## My Developer Profile
+
+## Software Engineering Lab 02
+
+This lab covers Git and GitHub version control.
+
+I practiced repositories, commits, branches, merging, and conflict resolution.
